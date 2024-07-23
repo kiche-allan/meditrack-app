@@ -5,8 +5,9 @@ Traditional paper-based record keeping systems in healthcare can be time-consumi
 Meditrack app proposes a smart health record keeping system that utilizes facial recognition and fingerprint technology to accurately and securely identify patients in healthcare facilities. This system eliminates the need for traditional paper-based identification methods, reducing the potential for errors and delays in emergency situations. By using cutting-edge technology, patient records can be managed more efficiently and medical staff can access critical information quickly, resulting in improved patient care and reduced healthcare costs. Additionally, this system provides an added layer of security to ensure patient information remains confidential and protected at all times. Overall, the smart health record keeping system has the potential to revolutionize patient record keeping and improve healthcare outcomes.
 
 ## What this app implements
-**Main Goal**: - To develop and implement a robust Patient Identification using using AI’S Facial Recognition and Biometrics
-Other Goals
+**Main Goal**: - To develop and implement a robust Patient Identification using using AI’S Facial Recognition System and Biometrics
+
+**Other Goals**
 
 **Goal 1**: Develop and integrate facial recognition technology with Azure Custom AI Vision to accurately and securely identify patients.
 
