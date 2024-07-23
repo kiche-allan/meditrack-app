@@ -9,7 +9,10 @@ Meditrack app proposes a smart health record keeping system that utilizes facial
 Other Goals
 
 **Goal 1**: Develop and integrate facial recognition technology with Azure Custom AI Vision to accurately and securely identify patients.
+
 **Goal 2**: Develop and integrate fingerprint technology ensuring uniqueness in identity with health record system.
+
 **Goal 3**: Develop a web interface Interface for capturing or uploading facial images, display results for recognition outcomes and provides a general patient information management interface.
+
 **Goal 4**: Implement measures to enhance the accuracy of patient identification through facial recognition and fingerprint biometrics.
 
