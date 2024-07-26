@@ -82,4 +82,36 @@ The development of a robust patient identification system using AI and biometric
 **Fulfilling a Gap in Existing Solutions:** While some healthcare facilities utilize basic forms of biometric identification, a comprehensive system integrating facial recognition and fingerprint verification remains relatively unexplored. This project aims to bridge this gap by creating a more robust and versatile solution.
 This justification highlights the project's relevance and potential impact on the healthcare industry. By addressing critical needs, leveraging technology, and prioritizing patient safety, 
 
+#RESULTS
+
+1.	User authentication – Login and Registration
+The register page. Here, a new patient who hasn’t been authenticated registers
+![image](https://github.com/user-attachments/assets/63698fc3-9aeb-4af5-a937-53e04e1acbfc)
+![image](https://github.com/user-attachments/assets/ebfaf509-6f92-41e3-ae6b-cbdba2a3fd91)
+            
+2.	Interface for capturing or uploading facial images.
+
+![image](https://github.com/user-attachments/assets/4c5872d1-832b-4545-98de-f357cc879f43)
+ 
+3.	Interface for adding patients
+
+![image](https://github.com/user-attachments/assets/7378c612-917e-4046-8bc0-4263b426132d)
+
+4.	Interface showing the Registered Patients
+
+![image](https://github.com/user-attachments/assets/2f248f52-94f4-41e2-acec-badb0de7b991)
+
+
+5.	Results display section for recognition outcomes
+
+![image](https://github.com/user-attachments/assets/672f00e9-7e27-4dab-80fd-94aa2b923d14)
+
+
+6.	It shows medical history.
+
+![image](https://github.com/user-attachments/assets/6fe3eb3e-82b1-484b-93d4-31d70aa8332c)
+
+
+
+
 
