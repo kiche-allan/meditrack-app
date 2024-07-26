@@ -111,6 +111,44 @@ The register page. Here, a new patient who hasn’t been authenticated registers
 
 ![image](https://github.com/user-attachments/assets/6fe3eb3e-82b1-484b-93d4-31d70aa8332c)
 
+### Objective 1: Develop and integrate facial recognition technology with Azure Custom AI Vision to accurately and securely identify patients.
+
+It achieved 99.8% accuracy in identifying Enock Korir as one of the patients
+ 
+![image](https://github.com/user-attachments/assets/f2d6f5c7-20e4-4091-b447-d19b3b83dc3f)
+
+![image](https://github.com/user-attachments/assets/81830502-fe55-43c9-932f-c9503ea3937c)
+
+
+Training my images for very long hours achieved a status of 100% in terms of precision, recall and AP
+ 
+![image](https://github.com/user-attachments/assets/90902860-9167-4e00-b39a-bb33767d5adf)
+
+
+### Objective 2: Develop and integrate fingerprint technology ensuring uniqueness in identity with health record system.
+1.	Enrol Finger
+ ![image](https://github.com/user-attachments/assets/219613e2-f1d8-4151-96c1-a363cb5b82ef)
+
+2.	Place Finger
+
+![image](https://github.com/user-attachments/assets/c4d4a5dc-e4f3-4ad8-a038-0d336dc89321)
+
+ 
+3.	The system stores the fingers
+
+![image](https://github.com/user-attachments/assets/5844769a-b044-4469-99f0-42fe1e6a10c8)
+
+ 
+4.	The patient is registered when the id is matched with that in the database
+
+![image](https://github.com/user-attachments/assets/6df8439f-d45a-47fa-ae8f-42ad6dbba53a)
+
+ ### FINAL 
+ 
+ ![image](https://github.com/user-attachments/assets/90e75d11-4db8-498c-9d72-898bed62851c)
+
+
+
 
 
 
