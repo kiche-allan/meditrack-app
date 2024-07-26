@@ -17,3 +17,69 @@ Meditrack app proposes a smart health record keeping system that utilizes facial
 
 **Goal 4**: Implement measures to enhance the accuracy of patient identification through facial recognition and fingerprint biometrics.
 
+## JUSTIFICATION AND SIGNIFICANCE OF THE APP
+
+The development of a robust patient identification system using AI and biometrics is justified by several compelling factors:
+**Addressing Critical Needs in Healthcare:** Current patient identification methods based on manual processes and physical IDs are prone to errors, time-consuming, and lack security. These limitations can lead to serious consequences, including medication errors, delayed treatment, duplicate medical records, and potential fraud. This project directly addresses these issues by proposing a more secure, efficient, and accurate identification system.
+
+**Enhancing Patient Safety:** Accurate and secure patient identification is paramount for ensuring patient safety. This project seeks to minimize identification errors, which can have life-threatening consequences in healthcare settings.
+
+**Improving Workflow and Efficiency:** Streamlining the identification process through AI and biometrics can significantly improve workflow for healthcare staff and reduce wait times for patients. This can lead to increased productivity and a better overall patient experience.
+
+**Potential for Cost Savings:** By minimizing errors and improving efficiency, the proposed system has the potential to generate cost savings for healthcare institutions. Reduced medication errors, improved treatment protocols, and streamlined processes can contribute to overall cost reduction.
+
+## System Architecture:
+
+### 1.	Frontend Development (React) – THE UI INTERFACE:
+
+•	Set up a new React project using Create React App and yarn
+
+•	Implement the UI components based on the designed wireframes, including:
+
+•	User authentication forms (login, registration).
+
+•	Interface for capturing or uploading facial images.
+
+•	Results display section for recognition outcomes.
+
+•	Patient information management interface 
+
+•	Utilize React Router for managing different views within the application.
+
+
+### 2.	Backend Development (Node.js):
+
+•	Initialize a new Node.js project with Express.js 
+
+•	Implement RESTful API endpoints to handle frontend requests, including:
+
+•	User authentication (registration, login, logout).
+
+•	Endpoints for uploading images and sending them to Azure Custom Vision.
+
+•	Endpoints for receiving recognition results and processing them.
+
+•	Implement middleware for handling authentication and authorization using JWT tokens or sessions.
+
+### 3.	Integration with Azure Custom Vision:
+
+•	Integrate the backend with Azure Custom Vision using the Azure SDK for Node.js or Axios for HTTP requests.
+
+•	Implement functions to send facial images to Azure Custom Vision for recognition.
+
+•	Parse the response from Azure Custom Vision and extract relevant information for display.
+
+### 4.	Database Setup and Connectivity (MongoDB):
+
+•	Set up a MongoDB Atlas cluster or a local MongoDB instance.
+
+•	Define database schemas for storing user accounts, patient information (if applicable), and session data.
+
+•	Use Mongoose or another MongoDB ORM to interact with the database from the Node.js backend.
+
+
+
+**Fulfilling a Gap in Existing Solutions:** While some healthcare facilities utilize basic forms of biometric identification, a comprehensive system integrating facial recognition and fingerprint verification remains relatively unexplored. This project aims to bridge this gap by creating a more robust and versatile solution.
+This justification highlights the project's relevance and potential impact on the healthcare industry. By addressing critical needs, leveraging technology, and prioritizing patient safety, 
+
+
